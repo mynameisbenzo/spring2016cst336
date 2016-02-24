@@ -65,7 +65,9 @@
 <body>
     
     <?php
-    
+    function shuffle(){
+        //shuffle($deck); comment1 comment2
+    }
     
     
     ?>
