@@ -1,0 +1,32 @@
+ .winner {
+    border: 1px solid;
+    background: yellow;
+ }
+ 
+ .bigwinner {
+    border: 1px solid;
+    background: green;
+ }
+ 
+ .gameboard {
+    border: solid;
+    background: white;
+ }
+ 
+ .streamline {
+    border: 1px solid;
+ }
+ 
+  a {
+    border: solid;
+    background-color: grey;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  h1 {
+   color: silver;
+  }
